@@ -79,14 +79,7 @@ python -m venv .venv
 .venv\Scripts\activate # Windows
 source .venv/bin/activate # Linux
 ```
-
-### 4. Instalar dependências
-```bash
-pip install -r requirements.txt
-
-```
-
-### 5. Executar os códigos de cada pasta
+### 4. Executar os códigos de cada pasta
 ```bash
 cd nome_da_pasta
 python3 main.py
